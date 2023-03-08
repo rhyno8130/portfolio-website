@@ -1,7 +1,7 @@
 /*
 Colors used
 
-Primary Color: #efe7ce;
+Primary Color: #f0f8ff;
 Secondary Color: #e0b354;
 Text Color: #324a4d;
 Visited Color: #540d22
@@ -16,8 +16,8 @@ Sun-color-100: #f76414
  */
 
  :root {
-  --primary-color: #efe7ce;
-  --secondary-color: #e0b354;
+  --primary-color: #f0f8ff;
+  --secondary-color: #f0f8ff;
   --color: #324a4d;
   --visited: #540d22;
   --active: #489c79;
