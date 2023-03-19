@@ -126,8 +126,8 @@ Sun-color-100: #f76414
   
   .page-header__item {
     -webkit-box-flex: 0;
-        -ms-flex: 0 1 200px;
-            flex: 0 1 200px;
+        -ms-flex: 0 1 100px;
+            flex: 0 1 100px;
   }
   
   .page-header__item:last-child {
