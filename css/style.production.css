@@ -23,6 +23,7 @@ Sun-color-100: #f76414
  */
 
  body {
+    margin: 30px;
     background-color:#bddbf5;
     font-family: 'lora', sans-serif;
     font-weight: undefined;
