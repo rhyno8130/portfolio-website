@@ -34,6 +34,7 @@ Sun-color-100: #f76414
 }
 
 body {
+  margin: 30px;
   background-color:var(--primary-color);
   font-family: var(--font);
   font-weight: var(--font-weight);
